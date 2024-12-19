@@ -1,5 +1,5 @@
 {
-  "domain": "solaredge_modbus_tl",
+  "domain": "solaredge_modbus",
   "name": "SolarEdge Modbus",
   "documentation": "https://github.com/binsentsu/home-assistant-solaredge-modbus",
   "requirements": ["pymodbus==3.8.1"],
